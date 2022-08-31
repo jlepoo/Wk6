@@ -1,0 +1,52 @@
+.body {
+  text-align: center;
+  font-family: arima;
+  font-weight: 500;
+}
+h1 {
+  padding: 15px;
+}
+h2 {
+  padding: 10px;
+}
+.upper-body {
+  margin: 0px auto 40px;
+  padding: 40px;
+  background-color: #9bf4d5;
+  border-radius: 10px;
+  color: #1dad9b;
+}
+.fahrenheit {
+  border: none;
+  background-color: #9bf4d5;
+}
+.fahrenheit:hover {
+  color: #1dad9b;
+}
+.celsius {
+  border: none;
+  background-color: #9bf4d5;
+}
+.celsius:hover {
+  color: #1dad9b;
+}
+.head-img {
+  margin: 20px auto;
+  border-radius: 10px 10px 10px 10px;
+  border: 2px solid #1dad9b;
+}
+.form {
+  margin: 50px auto;
+}
+.button {
+  background-color: #1dad9b;
+  border: 3px solid #1dad9b;
+  border-radius: 10px;
+  color: #fff;
+}
+.button:hover {
+  background-color: #9bf4d5;
+  border: 3px solid #9bf4d5;
+  color: #1dad9b;
+  transition: all 200ms ease-in;
+}
